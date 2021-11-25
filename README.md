@@ -1,2 +1,4 @@
-# Alejandra-Riano-Actividades-dirigidas-de-Datos-II
-Presentación de actividades dirigidas para la asignatura de datos II
+# Periodismo de Datos II - Actividades Dirigidas
+### Estudiante: M. Alejandra Riaño Castillo
+
+
